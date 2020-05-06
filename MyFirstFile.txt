@@ -6,5 +6,6 @@
 	<h1>My name is Developer 2.</h1>
 	<h1>My name is Developer 1.</h1>
 	<h1>Edit by Developer 2.</h1>
+	<h1>Change made to understand .git</h1>
 </body>
 </html>
